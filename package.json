@@ -1,0 +1,9 @@
+{
+  "name": "order-summary-component-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
